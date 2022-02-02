@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-*We have many books including:*
+*(We have many books including:**
 
     Mending - Repairs the item when gaining XP orbs. (Max enchantment level: 1) 
     Unbreaking - Increases item durability. (Max enchantment level: 3) 
@@ -29,7 +29,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
     Respiration 
     Thorns 
 
-""Melee Weapons:""
+**Melee Weapons:**
 
     Bane of Arthropods 
     Fire Aspect 
@@ -40,7 +40,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
     Smite 
     Sweeping Edge
 
-Ranged Weapons: 
+**Ranged Weapons:**
 
     Channeling
     Flame 
