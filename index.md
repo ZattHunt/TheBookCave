@@ -9,13 +9,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-We have many books including:
+""We have many books including:""
 
     Mending - Repairs the item when gaining XP orbs. (Max enchantment level: 1) 
     Unbreaking - Increases item durability. (Max enchantment level: 3) 
     Curse of Vanishing - Item destroyed upon death. (Max enchantment level: 1) 
 
-Armor: 
+""Armor:""
 
     Aqua Affinity - Increase the rate of underwater mining speed. (Max enchantment level: 1) 
     Blast Protection - Reduces explosion damage and knockback. (Max enchantment level: 4) 
@@ -30,39 +30,38 @@ Armor:
     Soul Speed - Increases walking speed on soul sand and soul soil. ((Max enchantment level: 3) 
     Thorns - Reflects some of the damage taken when hit, at the cost of reducing durability. (Max enchantment level: 3) 
 
-Melee Weapons: 
+""Melee Weapons:""
 
-    Bane of Arthropods - Increases damage and applies Slowness IV to arthropod mobs (spiders, cave spiders, silverfish, endermites and bees). (Max enchantment level: 5) 
-    Efficiency - When applied to an axe it increases the chance that the axe may stun a shield, with the base chance being 25% and a 5% increase for each level of efficiency. (Max enchantment level: 5) 
-    Fire Aspect - Sets target on fire. (Max enchantment level: 2) 
-    Looting - Increases amount of loot earned from mobs. (Max enchantment level: 3) 
-    Impaling - Trident deals additional damage to mobs that spawn naturally in the ocean. (Max enchantment level: 5) 
-    Knockback - Knocks back mobs away from you when hit. (Max enchantment level: 2) 
-    Sharpness - Increases weapon damage. (Max enchantment level: 5) 
-    Smite - Increases damage to undead mobs. (Max enchantment level: 3) 
-    Sweeping Edge - Increases sweeping attack damage. Available only in Java Edition (Max enchantment level: 3) 
+    Bane of Arthropods 
+    Fire Aspect 
+    Looting 
+    Impaling 
+    Knockback 
+    Sharpness
+    Smite 
+    Sweeping Edge
 
 Ranged Weapons: 
 
-    Channeling - Trident channels a bolt of lightning toward a hit entity. Functions only during thunderstorms and if the target is unobstructed by opaque blocks. (Max enchantment level: 1) 
-    Flame - Arrows set targets on fire. (Max enchantment level: 1) 
-    Impaling - Trident deals additional damage to mobs that spawn naturally in the ocean. (Max enchantment level: 5) 
-    Infinity - Shooting with projectiles does not consume arrows. (Max enchantment level: 1) 
-    Loyalty - Trident returns after being thrown. Higher levels reduce the return time. (Max enchantment level: 3) 
-    Riptide - Trident launches player with itself when thrown. Functions only in water or rain. (Max enchantment level: 3) 
-    Multishot - Shoot 3 arrows at the cost of one; only one arrow can be recovered. (Max enchantment level: 1) 
-    Piercing - Arrows pass through multiple entities (Max enchantment level: 4) 
-    Power - Increases arrow damage. (Max enchantment level: 5) 
-    Punch - Increases arrow knockback. (Max enchantment level: 2) 
-    Quick Charge - Decreases crossbow charging time. (Max enchantment level: 3) 
+    Channeling
+    Flame 
+    Impaling
+    Infinity
+    Loyalty
+    Riptide 
+    Multishot 
+    Piercing 
+    Power 
+    Punch 
+    Quick Charge
 
-Tools: 
+**Tools:**
 
-    Efficiency - Increases mining speed. (Max enchantment level: 5) 
-    Fortune - Increases certain item drop chances from blocks. (Max enchantment level: 3) 
-    Luck of the Sea - Increases rate of fishing rare loot (enchanting books, etc.) (Max enchantment level: 3) 
-    Lure - Decreases wait time until fish/junk/loot “bites” (Max enchantment level: 3) 
-    Silk Touch - Mined blocks will drop as blocks instead of breaking into other items/blocks. (Max enchantment level: 1) 
+    Efficiency
+    Fortune 
+    Luck of the Sea 
+    Lure 
+    Silk Touch 
 
 
 **Bold** and _Italic_ and `Code` text
