@@ -17,18 +17,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ""Armor:""
 
-    Aqua Affinity - Increase the rate of underwater mining speed. (Max enchantment level: 1) 
-    Blast Protection - Reduces explosion damage and knockback. (Max enchantment level: 4) 
-    Curse of Binding - Items cannot be removed from armor slots unless the cause is death or breaking. (Max enchantment level: 1) 
-    Depth Strider - Increases underwater movement speed. (Max enchantment level: 3) 
-    Feather Falling - Reduces fall damage. (Max enchantment level: 4) 
-    Fire Protection - Reduces fire damage and burn time. (Max enchantment level: 4) 
-    Frost Walker - Changes the water source blocks beneath the player into frosted ice and prevents the damage the player would take from standing on magma blocks. (Max enchantment level: 2) 
-    Projectile Protection - Reduces projectile damage. (Max enchantment level: 4) 
-    Protection - Reduces most types of damage by 4% for each level. (Max enchantment level: 4) 
-    Respiration - Extends underwater breathing time. (Max enchantment level: 3) 
-    Soul Speed - Increases walking speed on soul sand and soul soil. ((Max enchantment level: 3) 
-    Thorns - Reflects some of the damage taken when hit, at the cost of reducing durability. (Max enchantment level: 3) 
+    Aqua Affinity
+    Blast Protection 
+    Curse of Binding
+    Depth Strider 
+    Feather Falling
+    Fire Protection 
+    Frost Walker
+    Projectile 
+    Protection 
+    Respiration 
+    Thorns 
 
 ""Melee Weapons:""
 
